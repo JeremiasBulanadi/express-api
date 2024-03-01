@@ -1,0 +1,3 @@
+export const firstNames : string[] = ['John', 'Lisa', 'Joe', 'Merry', 'Jeremy', 'Francis', 'Chris', 'Sofia', 'Perry', 'Dennis']
+export const lastNames : string[] = ['Donovan', 'Smith', 'Doe', 'Rich', 'Faraday', 'Gatsby', 'Hedge', 'Sullivan', 'Krieg', 'Oliver']
+export const positions : string[] = ['Software Engineer', 'Technician', 'Accountant', 'Janitor', 'Clerk', 'Secretary', 'Manager', 'Assistant', 'HR']
